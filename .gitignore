@@ -1,0 +1,7 @@
+# Ignore .env files
+.env
+*.env
+
+# Ignore .conda directory and files
+.conda/
+*.conda
