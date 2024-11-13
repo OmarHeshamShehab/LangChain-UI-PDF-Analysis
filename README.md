@@ -12,7 +12,7 @@ Both scripts use Streamlit for building a web interface and share a similar arch
 ## Requirements
 To run these scripts, you will need the following:
 
-- Python 3.7 or above
+- Python 3.11.10
 - Required Python libraries, which can be installed via `pip` (see the **Installation** section)
 - A `.env` file for environment variables, particularly API keys for accessing language models
 
