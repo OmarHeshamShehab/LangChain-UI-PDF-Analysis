@@ -40,7 +40,6 @@ Follow these steps to set up the environment and run the scripts:
    Create a `.env` file in the root directory to store your API keys. The file should contain:
    ```
    OPENAI_API_KEY=your_openai_api_key_here
-   OLLAMA_API_KEY=your_ollama_api_key_here
    ```
 
 ## Scripts Overview
