@@ -89,7 +89,7 @@ pip install -r requirements.txt
 ```
 
 ## Environment Variables
-Both scripts require API keys for interacting with their respective language models. Ensure that your `.env` file is correctly set up to provide access to these keys.
+SinglePDF_OpenAI script require API keys for interacting with it's respective language models. Ensure that your `.env` file is correctly set up to provide access to these keys.
 
 ## Key Differences Between Ollama and OpenAI Scripts
 - **Language Model**: `SinglePDF_Ollama.py` uses Ollama, while `SinglePDF_OpenAI.py` uses OpenAI.
